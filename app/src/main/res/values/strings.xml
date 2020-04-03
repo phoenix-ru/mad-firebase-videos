@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseVideos</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="download_video">Download video</string>
+    <string name="upload_video">Upload video</string>
+    <string name="upload_video">Upload video</string>
+    <string name="video_id">Video id</string>
+</resources>

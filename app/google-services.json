@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "69494652981",
+    "firebase_url": "https://mad-firebase-videos.firebaseio.com",
+    "project_id": "mad-firebase-videos",
+    "storage_bucket": "mad-firebase-videos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69494652981:android:905147179b7c7b6914b17c",
+        "android_client_info": {
+          "package_name": "com.phoenixapps.firebasevideos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69494652981-mhhmirkn11c5q085t0ne0ivl8aid4602.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnXYGWL4vfRGZ30X1VEWvSMbVQXddjwl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69494652981-mhhmirkn11c5q085t0ne0ivl8aid4602.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
